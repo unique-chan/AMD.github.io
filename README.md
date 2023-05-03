@@ -13,8 +13,9 @@
 </p>
 
 ## Updates
+- (04/2023) Please note that our code will be released later!
 - (04/2023) This repo is being updated. Hope you understand and please stay tuned! 👀
-- (04/2023) Beta version of our project released (v1.0.0)
+- (04/2023) Beta-preview version of our project released (v1.0.0)
   - Support to generate optical remote sensing images
   - Support to provide both oriented and rectangle bbox labels
   - Support to capture the region with multiple viewpoints (`look_angle_min`, `look_angle_max`)
